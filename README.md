@@ -74,7 +74,7 @@ Local-first long-term memory for Claude Code. Archives, searches and reconstruct
 <td width="50%" valign="top">
 
 #### [AiChain · Crypto Sentinel AI](https://github.com/momoikura/AiChain)
-Crypto and meme-coin intelligence dashboard. Combines on-chain, market, DeFi, news and social signals into explainable risk scores, with a Meme Radar that never alerts from social buzz alone. Runs at $0 on free data sources.
+Crypto and meme-coin intelligence dashboard. Combines on-chain, market, DeFi, news and social signals into explainable risk scores, with a Meme Radar that never alerts from social buzz alone. Runs at $0 on a simulated feed behind live-ready data adapters.
 
 [Live demo](https://ai-chain-pied.vercel.app)
 
