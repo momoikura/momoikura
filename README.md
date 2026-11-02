@@ -97,8 +97,8 @@ Crypto and meme-coin intelligence dashboard. Combines on-chain, market, DeFi, ne
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=momoikura&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Mark's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoikura&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=momoikura&theme=transparent" alt="Mark's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=momoikura&theme=transparent" alt="Top languages by commit" />
 
 <img src="https://streak-stats.demolab.com?user=momoikura&hide_border=true&theme=transparent" alt="GitHub streak" />
 
