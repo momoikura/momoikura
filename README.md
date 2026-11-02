@@ -1,33 +1,25 @@
-### Mark Danila
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Mark Danila, full-stack developer" src="assets/header-light.svg" width="100%">
+</picture>
 
-Full-stack developer. I build AI agents whose output is checked by tests, and local-first developer tools.
+<p align="center">
+  <samp>
+    <a href="https://github.com/momoikura/The-Polisher">the-polisher</a> ·
+    <a href="https://github.com/momoikura/Artix">artix</a> ·
+    <a href="https://github.com/momoikura/AiChain">aichain</a> ·
+    <a href="https://thepolisher.pages.dev">live demo</a> ·
+    <a href="mailto:markdanila12@gmail.com">email</a>
+  </samp>
+</p>
 
-&nbsp;
+<br>
 
-**Projects**
+<a href="https://github.com/momoikura/The-Polisher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/polisher-dark.svg"><img alt="ThePolisher" src="assets/polisher-light.svg" width="49%"></picture></a> <a href="https://github.com/momoikura/Artix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/artix-dark.svg"><img alt="Artix" src="assets/artix-light.svg" width="49%"></picture></a>
+<a href="https://github.com/momoikura/AiChain"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/aichain-dark.svg"><img alt="AiChain" src="assets/aichain-light.svg" width="49%"></picture></a> <a href="https://github.com/search?q=is%3Apr+author%3Amomoikura+-user%3Amomoikura&type=pullrequests"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img alt="Open source contributions" src="assets/oss-light.svg" width="49%"></picture></a>
 
-[ThePolisher](https://github.com/momoikura/The-Polisher): Turns a GitHub issue into a pull request, with sandboxed tests deciding which fix is kept. Built for the Meta Global AI Developer Hackathon.<br>
-<sub>TypeScript · React · Python · Modal · pytest &nbsp;·&nbsp; [live](https://thepolisher.pages.dev) · [demo video](https://youtu.be/owxcagxox9g)</sub>
+<br>
 
-[Artix](https://github.com/momoikura/Artix): Offline long-term memory for Claude Code. Archives and searches past sessions, then hands the context back.<br>
-<sub>Tauri · Rust · React · TypeScript · SQLite · Three.js</sub>
-
-[AiChain](https://github.com/momoikura/AiChain): Crypto and meme-coin dashboard with explainable risk scores.<br>
-<sub>Next.js · TypeScript · Supabase · Tailwind &nbsp;·&nbsp; [live](https://ai-chain-pied.vercel.app)</sub>
-
-&nbsp;
-
-**Open source**
-
-[pyinvoke/invoke#1099](https://github.com/pyinvoke/invoke/pull/1099): explicit re-exports for mypy strict mode<br>
-[gruns/icecream#266](https://github.com/gruns/icecream/pull/266): fix a spurious source-unavailable warning
-
-&nbsp;
-
-**Stack**
-
-TypeScript, Python, Rust, SQL · React, Next.js, Tailwind, Three.js · Supabase, PostgreSQL, SQLite, Tauri · Modal, pytest, Vitest, GitHub Actions, Vercel, Cloudflare
-
-&nbsp;
-
-[markdanila12@gmail.com](mailto:markdanila12@gmail.com)
+<p align="center">
+  <samp>typescript · python · rust · react · next.js · tauri · supabase · postgres · modal</samp>
+</p>
